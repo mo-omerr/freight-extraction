@@ -25,7 +25,7 @@
 ### Installation
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone https://github.com/mo-omerr/freight-extraction
 cd freight-extraction
 
 # Create virtual environment
