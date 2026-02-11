@@ -1,8 +1,6 @@
 # Freight Forwarding Email Extraction System
 
-**Assessment Submission for Task Harmony**  
-**Final Accuracy: 90.89% (409/450 fields correct)**
-
+**Assessment Submission for Task Harmony** 
 ---
 
 ## Table of Contents
